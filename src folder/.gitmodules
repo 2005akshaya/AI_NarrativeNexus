@@ -1,6 +1,0 @@
-[submodule "Streamlit apps"]
-	path = Streamlit apps
-	url = https://github.com/yourusername/streamlit-apps.git
-[submodule "topic_modeling"]
-	path = topic_modeling
-	url = https://github.com/yourusername/topic_modeling.git
